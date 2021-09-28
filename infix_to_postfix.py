@@ -93,3 +93,5 @@ infixExps = [
 for exp in infixExps:
     postfix = toPostfix(exp)
     print(f'Infix: {exp} -> Postfix: {postfix}')
+
+
