@@ -1,3 +1,5 @@
+# Snake Water Gun Game with 10 rounds
+
 import random
 
 print ("This game will have 10 rounds.")
