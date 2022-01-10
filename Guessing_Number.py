@@ -1,3 +1,8 @@
+'''
+This Code tells us that whether the number is equal to 18 or not and 
+you have 9 guesses to guess the correct number.
+'''
+
 n = 18
 
 i = 1
