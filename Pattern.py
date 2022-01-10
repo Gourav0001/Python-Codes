@@ -1,3 +1,8 @@
+'''
+This Code prints the pattern on the basis of 
+given input.
+'''
+
 n = int (input())
 print ("Type 1 for True and 0 for False")
 
